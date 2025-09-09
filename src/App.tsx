@@ -167,7 +167,7 @@ function App() {
               >
                 <div className="absolute flex items-center justify-center bg-white inset-4 rounded-2xl">
                   <img
-                    src="/src/assets/adhelia.jpg"
+                    src="/adhelia.jpg"
                     alt="Adhelia"
                     className="absolute inset-0 object-cover w-full h-full rounded-2xl"
                   />
